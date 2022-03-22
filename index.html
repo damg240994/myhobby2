@@ -1,0 +1,42 @@
+<!DOCTYPE htlm>
+<html lan="eng">
+    <head>
+        <title>My Hobbies</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale-1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="Stylesheet.css">
+        
+        <body>
+            <div id="logo">
+            <img src="Martinez_LogoToUseInPgae.png" alt="logo" width="350px" height="80px"></div>
+            
+            <div id="menu">
+            <ul>
+                <li><a href="..."> About me </a></li>
+                <li><a href="..."> Hobbies</a></li>
+                <li><a href="..."> Favorite food </a></li>
+                
+            </ul>
+            </div>
+                     
+            <div class="container">
+                <h1>My Hobby</h1>
+                <p>
+                    One of my favorite things to do when I am free is riding my bike. I love to go out and enjoy the nature. This makes me feel connected with it, and I love. Since I was little, I always had a bike, but I did not always like it. With the pass of the years, this has been my favorite activity to do with my family.
+                </p>
+                <img src="IMG-4415.jpg"width="350px" height="400px">
+                <img src="IMG-5341.jpg"width="350px" height="350px">
+                <img src="IMG-5839.jpg"width="350px" height="400px">
+                
+            </div>
+          </body>
+        
+        <footer>
+            <p>Contact me  954-371-6102   damg240994@gmail.com
+        </footer>
+    
+    </head>
